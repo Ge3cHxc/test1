@@ -1,41 +1,46 @@
 {
-  "name": "WhatsAsenaDuplicated",
-  "version": "1.0.0",
-  "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./WhatsAsenaDuplicated/bot.js",
+  "name": "Amazone",
+  "version": "8.1.0",
+  "description": "❤️Amazone is a POWERFULL Whatsapp userbot helping to improve your Whatsapp experience.",
+  "main": "./ales/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dke8Nrj5JiJ/test1"
+    "url": "git+https://github.com/Ge3cHxc/test1.git"
   },
   "keywords": [
-    "whatsapp"
+    "whatsapp",
+    "bot",
+    "ai",
+    "asena",
+    "WhatsAsena"
   ],
-  "author": "AsenaDev / Yusuf Usta",
-  "developer": "AsenaDev / @Lasi99X",
+  "author": "NeotroDev / TeenuhX",
+  "developer": "NeotroDev / @Teenuh",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://t.me/danuma01"
+    "url": "https://github.com/Ge3cHxc/test1/issues"
   },
-  "homepage": "lasiya.ml",
-   "dependencies": {
-    "@adiwajshing/baileys": "3.4.1",
+  "homepage": "https://github.com/Ge3cHxc/test1#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "3.5.2",
     "@lh2020/speedtest-net": "^2.1.1",
     "browser-id3-writer": "^4.4.0",
-    "playstore-scraper": "^1.0.0",
+    "apk-downloader": "^1.0.2",
+    "axios": "^0.21.1",
     "googlethis": "^1.0.7",
     "audiobuffer-to-wav": "1.0.0",
     "chalk": "^4.1.0",
     "coffeehouse": "^2.0.0",
     "cwebp": "^2.0.5",
+    "spdl-core": "^2.0.2",
     "search-engine-client": "^1.2.6",
     "deepai": "^1.0.17",
     "cwebp-bin": "^6.1.1",
     "tinyurl": "^1.1.7",
     "dotenv": "^8.2.0",
-    "tiktok-scraper": "1.4.20",
     "request": "2.88.2",
     "exchange-rates-api": "^1.0.2",
     "fluent-ffmpeg": "^2.1.2",
@@ -48,6 +53,7 @@
     "js-ffmpeg": "0.0.26",
     "jsdom": "^16.5.1",
     "langs": "^2.0.0",
+    "languagedetect": "^2.0.0",
     "meme-maker": "^2.1.2",
     "mongodb": "^3.6.3",
     "node-fetch": "^2.6.1",
@@ -62,6 +68,6 @@
     "translatte": "^3.0.0",
     "wikijs": "^6.0.1",
     "yt-search": "^2.7.4",
-    "ytdl-core": "^4.5.0"
+    "ytdl-core": "^4.8.2"
   }
 }
